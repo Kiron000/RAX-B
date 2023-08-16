@@ -1,1 +1,2 @@
-# RAX-B
+# RAX-B 
+cd raxbtest01
